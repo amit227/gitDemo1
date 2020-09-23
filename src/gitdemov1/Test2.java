@@ -6,6 +6,8 @@ public class Test2 {
 		// TODO Auto-generated method stub
 System.out.println("amit530 added");
 System.out.println("one more check added");
+System.out.println("1.added by Amit227");
+System.out.println("2.added by Amit227");
 	}
 
 }
