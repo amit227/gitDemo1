@@ -7,7 +7,9 @@ public class test1 {
 		// TODO Auto-generated method stub
 
 System.out.print("phase 2 check 1- test1 + test 1 check 101");
-System.out.println("wp1 11");
+
+System.out.print("wp2 21 + wp1 11");
+
 
 	}
 }

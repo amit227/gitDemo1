@@ -19,7 +19,8 @@ System.out.print("go ahead --amit227");
 System.out.print("phase 2 check i- test2");
 
 System.out.print("phase 2 check 101- test2 + System.out.print(\"phase 2 check i- test2\");");
-System.out.println("wp1 11");
+System.out.print("wp2 21 + wp1 11");
+
 	}
 
 }
