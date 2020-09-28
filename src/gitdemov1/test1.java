@@ -1,10 +1,14 @@
 package gitdemov1;
 
 public class test1 {
-
+	
 	
 	public static void main(String[] args) {
-		
-		System.out.println("test 1 check 101");
+		// TODO Auto-generated method stub
+
+System.out.print("phase 2 check 1- test1 + test 1 check 101");
+
+
+
 	}
 }
